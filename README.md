@@ -1,2 +1,15 @@
-僅用於本地個人測試網頁使用，絕無散播用途，若有侵權請立即告知會馬上撤下，謝謝
-This is intended solely for local personal webpage testing and will not be distributed. If there is any infringement, please notify me and I will take it down immediately. Thank you.
+# 🎵 MusicProjectTest
+
+A personal music hosting project using GitHub Pages to serve audio files for web playback.
+
+個人音樂託管專案，使用 GitHub Pages 提供音訊檔案供網頁播放使用。
+
+---
+
+## 📖 English
+
+### About
+This repository hosts audio files (MP3) via GitHub Pages for use in personal web projects. Files can be embedded directly into HTML using the `<audio>` tag.
+
+### Usage
+```html
